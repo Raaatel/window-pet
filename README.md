@@ -115,7 +115,7 @@ sprite_sheet_full.png  전체 스프라이트 시트
 ```
 MIT License
 
-Copyright (c) 2026 <YOUR NAME>
+Copyright (c) 2026 <raaatel>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
