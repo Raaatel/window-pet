@@ -136,5 +136,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-> `<YOUR NAME>` 부분을 본인 이름이나 GitHub 아이디로 바꿔 주세요.
-> 다른 라이선스(Apache-2.0, GPL-3.0 등)를 원하면 알려주세요.
