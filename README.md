@@ -1,4 +1,4 @@
-# window-pet
+# pixel-pet
 windows pet program
 # 🐾 Pixel Desktop Pet (픽셀 데스크탑 펫)
 
